@@ -1,4 +1,4 @@
-import { SERVICES } from "../data/services.js";
+import { SERVICES } from "../data/services.jsx";
 
 export default function Services() {
   return (
